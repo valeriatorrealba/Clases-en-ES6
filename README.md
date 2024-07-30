@@ -27,3 +27,7 @@ El programa debe desarrollarse en JavaScript utilizando las nuevas tecnologías 
 El diagrama UML proporcionado ilustra la estructura y cardinalidad de los objetos y sus propiedades. Puedes ver el diagrama aquí:
 
 ![es6](screenshot/es6.png)
+
+## Autor
+
+Este proyecto fue desarrollado por **Valeria Torrealba**.

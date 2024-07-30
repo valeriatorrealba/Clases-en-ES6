@@ -13,7 +13,7 @@ El programa debe desarrollarse en JavaScript utilizando las nuevas tecnologías 
 1. **Mantener un Estilo de Código Uniforme**
 2. **Utilizar ES6 para el Desarrollo del Programa**
 3. **Implementar Babel**:
-   - Instalar las dependencias necesarias
+   - Instalar las dependencias necesarias.
    - Crear y configurar el archivo `babel.config.json`
 4. **Crear Tres Archivos JavaScript**:
    - Archivo principal (main)
